@@ -1,6 +1,6 @@
 # capture-phantomjs
 
-Note: I replaced phantomjs with phantomjs-prebuilt, as phantomjs is deprecated
+Note: I replaced phantomjs with phantomjs-prebuilt, as it was renamed
 
 Capture screenshots using [phantomjs](http://phantomjs.org/).
 
