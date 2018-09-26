@@ -1,5 +1,7 @@
 # capture-phantomjs
 
+Note: I replaced phantomjs with phantomjs-prebuilt, as phantomjs is deprecated
+
 Capture screenshots using [phantomjs](http://phantomjs.org/).
 
 [![build status](https://secure.travis-ci.org/juliangruber/capture-phantomjs.png)](http://travis-ci.org/juliangruber/capture-phantomjs) [![Greenkeeper badge](https://badges.greenkeeper.io/juliangruber/capture-phantomjs.svg)](https://greenkeeper.io/)
