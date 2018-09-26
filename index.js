@@ -1,6 +1,6 @@
 const { promisify } = require('util')
 const exec = promisify(require('child_process').exec)
-const { path: phantomjs } = require('phantomjs')
+const { path: phantomjs } = require('phantomjs-prebuilt')
 const { Buffer } = require('safe-buffer')
 const escape = require('shell-escape')
 
